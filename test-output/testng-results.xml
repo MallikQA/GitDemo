@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22686" started-at="2022-10-19T13:07:42Z" finished-at="2022-10-19T13:08:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22686" started-at="2022-10-19T13:07:42Z" finished-at="2022-10-19T13:08:04Z">
+      <class name="rahulshettyacademy.MobileBrowserTest">
+        <test-method status="PASS" signature="ConfigureAppium()[pri:0, instance:rahulshettyacademy.MobileBrowserTest@327b636c]" name="ConfigureAppium" is-config="true" duration-ms="18722" started-at="2022-10-19T13:07:42Z" finished-at="2022-10-19T13:08:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method status="PASS" signature="browserTest()[pri:0, instance:rahulshettyacademy.MobileBrowserTest@327b636c]" name="browserTest" duration-ms="3087" started-at="2022-10-19T13:08:00Z" finished-at="2022-10-19T13:08:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:rahulshettyacademy.MobileBrowserTest@327b636c]" name="TearDown" is-config="true" duration-ms="794" started-at="2022-10-19T13:08:03Z" finished-at="2022-10-19T13:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- rahulshettyacademy.MobileBrowserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
